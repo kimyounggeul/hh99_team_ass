@@ -46,7 +46,7 @@ public class Main {
             }else if (b==3) {
                 System.out.println(b + "B");
             } else {
-                System.out.println(s + "S"+  b + "B");
+                System.out.println(b + "B"+  s + "S");
             }
 
             total++;
